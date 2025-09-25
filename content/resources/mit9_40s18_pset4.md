@@ -4,6 +4,8 @@ description: ''
 file: /courses/9-40-introduction-to-neural-computation-spring-2018/71b345f1f5e9399f9f41b64f85b8a1e8_MIT9_40S18_pset4.zip
 file_size: 186263
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

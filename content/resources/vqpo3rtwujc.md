@@ -4,6 +4,8 @@ description: ''
 file: /courses/9-40-introduction-to-neural-computation-spring-2018/7683c7e295708f3b03e3706946fdffb5_vQpo3rTwUjc.srt
 file_size: 87683
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
