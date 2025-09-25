@@ -46,6 +46,7 @@
     "website": "9-40-introduction-to-neural-computation-spring-2018"
   },
   "course_title": "Introduction to Neural Computation",
+  "hide_download": true,
   "course_description": "This course introduces quantitative approaches to understanding brain and cognitive functions. Topics include mathematical description of neurons, the response of neurons to sensory stimuli, simple neuronal networks, statistical inference and decision making. It also covers foundational quantitative tools of data analysis in neuroscience: correlation, convolution, spectral analysis, principal components analysis, and mathematical concepts including simple differential equations and linear algebra.\n",
   "department_numbers": [
     "9"
@@ -56,6 +57,7 @@
     "content": "f88c57c3-6759-6047-49ab-c87225523ef0",
     "website": "9-40-introduction-to-neural-computation-spring-2018"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Videos",
     "Lecture Notes",
